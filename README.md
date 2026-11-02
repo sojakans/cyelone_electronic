@@ -1,5 +1,7 @@
 # Ceylon Electronics
 
+**Security review, 2 November 2026:** Updated Vite, PostCSS and React Router (now v7) to patched versions; `npm audit` reports zero known vulnerabilities. Production build and database authorization tests pass. The connected Supabase project has RLS on all six public tables and one owner membership. An internal event-trigger function no longer grants execution to client roles. See [the security review](docs/security-review-2026-11-02.md) for scope, remaining findings, and deployment requirements. This update supersedes the historical connection and dependency notes below.
+
 **Latest status (31 October 2026):** Supabase is connected and the schema is installed. The 3D robotics storefront, live product links, cart and portable Express backend are documented in [docs/robotics-storefront.md](docs/robotics-storefront.md). Owner-account creation and real inventory uploads are still required. Historical delivery notes below describe the earlier preview.
 
 

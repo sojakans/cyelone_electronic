@@ -1,0 +1,8 @@
+import {z} from 'zod';
+import type {Product} from './types';
+export const slugify=(s:string)=>s.toLowerCase().trim().replace(/[^a-z0-9]+/g,'-').replace(/^-|-$/g,'');
+export const stock=(p:Pick<Product,'stock_qty'|'low_stock_threshold'|'is_available'>)=>!p.is_available||p.stock_qty===0?'out':p.stock_qty<=p.low_stock_threshold?'low':'in_stock';
+export const money=(n:number)=>new Intl.NumberFormat('en-LK',{style:'currency',currency:'LKR',maximumFractionDigits:2}).format(n);
+export const productSchema=z.object({robot_part:z.string().nullable().optional().default(null),is_bestseller:z.boolean().optional().default(false),name:z.string().trim().min(1).max(160),slug:z.string().regex(/^[a-z0-9]+(?:-[a-z0-9]+)*$/),category_id:z.string().uuid().nullable(),description:z.string().max(10000),specs:z.record(z.string(),z.string()),price:z.coerce.number().min(0).max(9999999999),bulk_price:z.number().min(0).nullable(),stock_qty:z.coerce.number().int().min(0),low_stock_threshold:z.coerce.number().int().min(0),is_available:z.boolean(),is_featured:z.boolean(),images:z.array(z.string()).max(12)});
+export const contactSchema=z.object({name:z.string().trim().min(1).max(100),email:z.string().email().max(254).or(z.literal('')),phone:z.string().max(40),body:z.string().trim().min(10).max(3000),website:z.literal('')});
+export const quoteSchema=z.object({customer_name:z.string().trim().min(1).max(160),customer_phone:z.string().max(40),valid_until:z.string().regex(/^\d{4}-\d{2}-\d{2}$/),status:z.enum(['valid','expired','cancelled']),items:z.array(z.object({name:z.string().trim().min(1).max(160),qty:z.coerce.number().int().min(1).max(100000),price:z.coerce.number().min(0).max(9999999)})).min(1).max(100)});

@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Disallow: /admin
+Sitemap: https://ceylon-electronics-catalog.ssakan439.chatgpt.site/sitemap.xml

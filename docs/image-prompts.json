@@ -1,0 +1,53 @@
+{
+  "method": "Built-in image generation",
+  "assets": [
+    {
+      "file": "public/images/components/arduino-uno-r3.png",
+      "prompt": "Use case: product-mockup. Asset type: square electronics store product illustration for Ceylon Electronics. Subject: Arduino Uno R3 style development board, blue teal PCB, ATmega328 DIP microcontroller, USB-B socket, black barrel jack and black pin headers. Create one premium photorealistic 3D studio product render, three-quarter view, centered and fully visible with generous 15% margins. Seamless solid deep navy #0B1220 backdrop, subtle cyan rim light and soft grounded shadow. Crisp realistic materials and component detail. One product or one matching set only. No people, no hands, no packaging, no decorative props, no captions, no watermark. Square composition, consistent catalog collection style. This is illustrative AI imagery, not an exact engineering reference."
+    },
+    {
+      "file": "public/images/components/arduino-nano.png",
+      "prompt": "Use case: product-mockup. Asset type: square electronics store product illustration for Ceylon Electronics. Subject: Arduino Nano style tiny blue development board, two rows of silver pins, mini USB socket, small square microcontroller. Create one premium photorealistic 3D studio product render, three-quarter view, centered and fully visible with generous 15% margins. Seamless solid deep navy #0B1220 backdrop, subtle cyan rim light and soft grounded shadow. Crisp realistic materials and component detail. One product or one matching set only. No people, no hands, no packaging, no decorative props, no captions, no watermark. Square composition, consistent catalog collection style. This is illustrative AI imagery, not an exact engineering reference."
+    },
+    {
+      "file": "public/images/components/esp32-development-board.png",
+      "prompt": "Use case: product-mockup. Asset type: square electronics store product illustration for Ceylon Electronics. Subject: ESP32 development board, black PCB, silver rectangular ESP32 wireless module shield, PCB antenna, micro USB socket and two rows of pins. Create one premium photorealistic 3D studio product render, three-quarter view, centered and fully visible with generous 15% margins. Seamless solid deep navy #0B1220 backdrop, subtle cyan rim light and soft grounded shadow. Crisp realistic materials and component detail. One product or one matching set only. No people, no hands, no packaging, no decorative props, no captions, no watermark. Square composition, consistent catalog collection style. This is illustrative AI imagery, not an exact engineering reference."
+    },
+    {
+      "file": "public/images/components/hc-sr04-ultrasonic-sensor.png",
+      "prompt": "Use case: product-mockup. Asset type: square electronics store product illustration for Ceylon Electronics. Subject: HC-SR04 ultrasonic sensor, small blue PCB with two prominent round silver ultrasonic transducers side by side and four connection pins. Create one premium photorealistic 3D studio product render, three-quarter view, centered and fully visible with generous 15% margins. Seamless solid deep navy #0B1220 backdrop, subtle cyan rim light and soft grounded shadow. Crisp realistic materials and component detail. One product or one matching set only. No people, no hands, no packaging, no decorative props, no captions, no watermark. Square composition, consistent catalog collection style. This is illustrative AI imagery, not an exact engineering reference."
+    },
+    {
+      "file": "public/images/components/dht11-temperature-sensor.png",
+      "prompt": "Use case: product-mockup. Asset type: square electronics store product illustration for Ceylon Electronics. Subject: DHT11 temperature humidity sensor module, distinctive blue perforated rectangular sensor on small black PCB with three metal header pins. Create one premium photorealistic 3D studio product render, three-quarter view, centered and fully visible with generous 15% margins. Seamless solid deep navy #0B1220 backdrop, subtle cyan rim light and soft grounded shadow. Crisp realistic materials and component detail. One product or one matching set only. No people, no hands, no packaging, no decorative props, no captions, no watermark. Square composition, consistent catalog collection style. This is illustrative AI imagery, not an exact engineering reference."
+    },
+    {
+      "file": "public/images/components/single-channel-relay-module.png",
+      "prompt": "Use case: product-mockup. Asset type: square electronics store product illustration for Ceylon Electronics. Subject: single-channel 5V relay module with blue cuboid relay on a blue PCB, three green screw terminals, three signal pins. Create one premium photorealistic 3D studio product render, three-quarter view, centered and fully visible with generous 15% margins. Seamless solid deep navy #0B1220 backdrop, subtle cyan rim light and soft grounded shadow. Crisp realistic materials and component detail. One product or one matching set only. No people, no hands, no packaging, no decorative props, no captions, no watermark. Square composition, consistent catalog collection style. This is illustrative AI imagery, not an exact engineering reference."
+    },
+    {
+      "file": "public/images/components/830-point-breadboard.png",
+      "prompt": "Use case: product-mockup. Asset type: square electronics store product illustration for Ceylon Electronics. Subject: white 830-point solderless breadboard, rows of tiny socket holes, central channel and red blue power rails. Create one premium photorealistic 3D studio product render, three-quarter view, centered and fully visible with generous 15% margins. Seamless solid deep navy #0B1220 backdrop, subtle cyan rim light and soft grounded shadow. Crisp realistic materials and component detail. One product or one matching set only. No people, no hands, no packaging, no decorative props, no captions, no watermark. Square composition, consistent catalog collection style. This is illustrative AI imagery, not an exact engineering reference."
+    },
+    {
+      "file": "public/images/components/jumper-wire-set.png",
+      "prompt": "Use case: product-mockup. Asset type: square electronics store product illustration for Ceylon Electronics. Subject: neatly fanned set of multicolored male-to-male Dupont jumper wires with black connector ends and silver pins, rainbow colored insulation. Create one premium photorealistic 3D studio product render, three-quarter view, centered and fully visible with generous 15% margins. Seamless solid deep navy #0B1220 backdrop, subtle cyan rim light and soft grounded shadow. Crisp realistic materials and component detail. One product or one matching set only. No people, no hands, no packaging, no decorative props, no captions, no watermark. Square composition, consistent catalog collection style. This is illustrative AI imagery, not an exact engineering reference."
+    },
+    {
+      "file": "public/images/components/resistor-assortment.png",
+      "prompt": "Use case: product-mockup. Asset type: square electronics store product illustration for Ceylon Electronics. Subject: small orderly fan arrangement of axial through-hole resistors, beige and blue cylindrical bodies with colored bands, long thin metal leads. Create one premium photorealistic 3D studio product render, three-quarter view, centered and fully visible with generous 15% margins. Seamless solid deep navy #0B1220 backdrop, subtle cyan rim light and soft grounded shadow. Crisp realistic materials and component detail. One product or one matching set only. No people, no hands, no packaging, no decorative props, no captions, no watermark. Square composition, consistent catalog collection style. This is illustrative AI imagery, not an exact engineering reference."
+    },
+    {
+      "file": "public/images/components/capacitor-kit.png",
+      "prompt": "Use case: product-mockup. Asset type: square electronics store product illustration for Ceylon Electronics. Subject: tidy assortment of electrolytic capacitors in black and blue cylinders with silver tops plus small orange ceramic disk capacitors with paired metal leads. Create one premium photorealistic 3D studio product render, three-quarter view, centered and fully visible with generous 15% margins. Seamless solid deep navy #0B1220 backdrop, subtle cyan rim light and soft grounded shadow. Crisp realistic materials and component detail. One product or one matching set only. No people, no hands, no packaging, no decorative props, no captions, no watermark. Square composition, consistent catalog collection style. This is illustrative AI imagery, not an exact engineering reference."
+    },
+    {
+      "file": "public/images/components/digital-multimeter.png",
+      "prompt": "Use case: product-mockup. Asset type: square electronics store product illustration for Ceylon Electronics. Subject: yellow and dark gray handheld digital multimeter, large LCD reading 0.00, central rotary selector, red and black test leads neatly beside it. Create one premium photorealistic 3D studio product render, three-quarter view, centered and fully visible with generous 15% margins. Seamless solid deep navy #0B1220 backdrop, subtle cyan rim light and soft grounded shadow. Crisp realistic materials and component detail. One product or one matching set only. No people, no hands, no packaging, no decorative props, no captions, no watermark. Square composition, consistent catalog collection style. This is illustrative AI imagery, not an exact engineering reference."
+    },
+    {
+      "file": "public/images/components/soldering-iron-60w.png",
+      "prompt": "Use case: product-mockup. Asset type: square electronics store product illustration for Ceylon Electronics. Subject: 60 watt soldering iron with blue insulated handle, black grip, metal barrel, fine silver tip, black cable neatly coiled behind. Create one premium photorealistic 3D studio product render, three-quarter view, centered and fully visible with generous 15% margins. Seamless solid deep navy #0B1220 backdrop, subtle cyan rim light and soft grounded shadow. Crisp realistic materials and component detail. One product or one matching set only. No people, no hands, no packaging, no decorative props, no captions, no watermark. Square composition, consistent catalog collection style. This is illustrative AI imagery, not an exact engineering reference."
+    }
+  ]
+}
